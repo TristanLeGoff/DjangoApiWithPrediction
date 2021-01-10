@@ -1,6 +1,8 @@
 # DjangoApiWithPrediction  
 A Django Api project to do prediction to know if an article will be popular or not.  
 
+DataSet : https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity  
+
 To start the django project :  
 >cd MyDjangoApi  
 >python manage.py runserver  
