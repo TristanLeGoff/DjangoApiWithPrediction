@@ -10,7 +10,7 @@ To start the django project :
 You can know go to http://127.0.0.1:8000/api/alldata to see all data  
 Or http://127.0.0.1:8000/api/data/5 to see the specific data with id=5  
 
-Our prediction have around 70% of success  
+Our prediction has around 70% of success  
 
 To test the prediction you can use Postman and do a request Post within the column "popularity" and that will return you the data with the predicted popularity.  
 Exemple of body to do the Post request :   
