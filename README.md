@@ -7,7 +7,7 @@ To start the django project :
 >cd MyDjangoApi  
 >python manage.py runserver  
 
-You can know go to http://127.0.0.1:8000/api/alldata to see all data  
+You can now go to http://127.0.0.1:8000/api/alldata to see the data  
 Or http://127.0.0.1:8000/api/data/5 to see the specific data with id=5  
 
 Our prediction has around 70% of success  
